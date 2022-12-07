@@ -6,3 +6,4 @@ docs/CONTRIBUTING
 
 #Community and behavioral expectations:
   #be nice, do only good
+  #In otherwords, don't be mean.
