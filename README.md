@@ -10,3 +10,7 @@
   ##if yes program continues
 
 #otherwise it will calculate and display calculations.
+
+
+###Licensing
+    #Educational Community License v2.0
