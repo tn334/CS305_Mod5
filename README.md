@@ -7,10 +7,10 @@
 #Program then asks user to decide to input data into the calculator
 
 #after each input program asks if there is more to add
-  ##if yes program continues
+  #if yes program continues
 
 #otherwise it will calculate and display calculations.
 
 
-###Licensing
+#Licensing
     #Educational Community License v2.0
