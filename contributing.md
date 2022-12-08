@@ -12,4 +12,4 @@ docs/CONTRIBUTING
 #co-author
     #I, Tyler Austin, am a contributor!
     
-# Please be respectful of everyone's work and don't ruin it
+#Please be respectful of everyone's work and don't ruin it
