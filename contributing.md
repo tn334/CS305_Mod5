@@ -1,6 +1,7 @@
 docs/CONTRIBUTING
 
 #co-authors
+    #I, Sami Jurado, am a co-author!
 
 #Steps for creating good issues or pull requests.
 

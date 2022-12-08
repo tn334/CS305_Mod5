@@ -13,4 +13,6 @@
 
 
 #Licensing
-    #Educational Community License v2.0
+    #Educational Community License v2.
+# Hypothetical module I, Sami Jurado, am adding to this project:
+#nothing, really, except maybe adding a third calculator.
